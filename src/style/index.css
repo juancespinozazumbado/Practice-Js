@@ -1,0 +1,42 @@
+*{
+
+}
+html{
+}
+/*    */
+
+.nav-bar, ul{
+    display: flex;
+
+}
+li{
+    margin: 0.5rem;
+    text-decoration: none;
+    list-style: none;
+}
+
+.main-section{
+    display: block;
+    align-items: center;
+    grid-template-columns: 1,1,1;
+}
+
+.card-containner{
+    display: grid;
+    grid-template-columns:  ;
+    grid-gap: 2em;
+}
+.card{
+    width: 400px;
+    height: 450px;
+    border-radius: 2% 3%;
+}
+
+
+@media(max-width :400px) {
+    .card-containner{
+        display: block;
+
+    }
+    
+}

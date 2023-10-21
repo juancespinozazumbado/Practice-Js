@@ -1,0 +1,97 @@
+[
+  {
+    "Id": "IF7892ksj5",
+    "Name": "HP Phavilion",
+    "Price": 1200.0,
+    "Description": "An airline shape modern computer that can do all you want!.",
+    "Tags": ["Technologie", "Modern", "Progressive", "Students", "Work"],
+    "ImageUri" :"Asets/img/1.png"
+  },
+  {
+    "Id": "5978jsop",
+    "Name": "Dell Inspiron",
+    "Price": 2000.0,
+    "Description": "An airline shape modern computer that can do all you want!.",
+    "Tags": ["Technologie", "Modern", "Progressive", "Students", "Work", "Home"],
+    "ImageUri" :"Asets/img/2.png"
+  },
+  {
+    "Id": "HY459876msl",
+    "Name": "Lenovo IdeaPath 2",
+    "Price": 1750.5,
+    "Description": "An airline shape modern computer that can do all you want!.",
+    "Tags": ["Technologie", "Modern", "Progressive", "Students", "Work", "Home"],
+    "ImageUri" :"Asets/img/3.png"
+  },
+  {
+    "Id": "UP5L64597sl",
+    "Name": "Mac-Book Pro M.2 128Gb",
+    "Price": 1200.0,
+    "Description": "An airline shape modern computer that can do all you want!.",
+    "Tags": ["Technologie", "Modern", "Progressive", "Students", "Work"],
+    "ImageUri" :"Asets/img/4.png"
+  },
+  {
+    "Id": "IF7892ksj5",
+    "Name": "HP Phavilion",
+    "Price": 1200.0,
+    "Description": "An airline shape modern computer that can do all you want!.",
+    "Tags": ["Technologie", "Modern", "Progressive", "Students", "Work"],
+    "ImageUri" :"Asets/img/5.png"
+  },
+  {
+    "Id": "5978jsop",
+    "Name": "Dell Inspiron",
+    "Price": 2000.0,
+    "Description": "An airline shape modern computer that can do all you want!.",
+    "Tags": ["Technologie", "Modern", "Progressive", "Students", "Work", "Home"],
+    "ImageUri" :"Asets/img/6.png"
+  },
+  {
+    "Id": "HY459876msl",
+    "Name": "Lenovo IdeaPath 2",
+    "Price": 1750.5,
+    "Description": "An airline shape modern computer that can do all you want!.",
+    "Tags": ["Technologie", "Modern", "Progressive", "Students", "Work", "Home"],
+    "ImageUri" :"Asets/img/7.png"
+  },
+  {
+    "Id": "UP5L64597sl",
+    "Name": "Mac-Book Pro M.2 128Gb",
+    "Price": 1200.0,
+    "Description": "An airline shape modern computer that can do all you want!.",
+    "Tags": ["Technologie", "Modern", "Progressive", "Students", "Work"],
+    "ImageUri" :"Asets/img/8.png"
+  }, {
+    "Id": "IF7892ksj5",
+    "Name": "HP Phavilion",
+    "Price": 1200.0,
+    "Description": "An airline shape modern computer that can do all you want!.",
+    "Tags": ["Technologie", "Modern", "Progressive", "Students", "Work"],
+    "ImageUri" :"Asets/img/9.png"
+  },
+  {
+    "Id": "5978jsop",
+    "Name": "Dell Inspiron",
+    "Price": 2000.0,
+    "Description": "An airline shape modern computer that can do all you want!.",
+    "Tags": ["Technologie", "Modern", "Progressive", "Students", "Work", "Home"],
+    "ImageUri" :"Asets/img/10.png"
+  },
+  {
+    "Id": "HY459876msl",
+    "Name": "Lenovo IdeaPath 2",
+    "Price": 1750.5,
+    "Description": "An airline shape modern computer that can do all you want!.",
+    "Tags": ["Technologie", "Modern", "Progressive", "Students", "Work", "Home"],
+    "ImageUri" :"Asets/img/11.png"
+  },
+  {
+    "Id": "UP5L64597sl",
+    "Name": "Mac-Book Pro M.2 128Gb",
+    "Price": 1200.0,
+    "Description": "An airline shape modern computer that can do all you want!.",
+    "Tags": ["Technologie", "Modern", "Progressive", "Students", "Work"],
+    "ImageUri" :"Asets/img/12.png"
+  }
+]
