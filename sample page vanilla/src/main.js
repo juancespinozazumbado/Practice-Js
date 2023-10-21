@@ -14,6 +14,7 @@ var barista = {
         return `${preference}, Secret word: ${this.string_2}${this.string_3}${this.string_1}`;
             
     }
+    
 };
 
 your_drink = "Moke";
